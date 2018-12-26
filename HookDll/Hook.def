@@ -1,0 +1,6 @@
+LIBRARY HookDll
+EXPORTS
+SetHook @1;
+UnsetHook @2;
+SetFunction @3;
+SetFunctions @4;
